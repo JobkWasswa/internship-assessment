@@ -3,9 +3,10 @@ title: Sunbird Speak & Translate
 emoji: 🌻
 colorFrom: yellow
 colorTo: green
-sdk: streamlit
-sdk_version: "1.38.0"
-app_file: app.py
+sdk: docker
+app_port: 8501
+tags:
+  - streamlit
 pinned: false
 license: mit
 short_description: Summarise text or audio, then translate to a Ugandan language with spoken output.
