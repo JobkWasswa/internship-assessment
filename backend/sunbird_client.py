@@ -39,7 +39,7 @@ def _get_token():
             "SUNBIRD_API_TOKEN is not set. Add it to your .env file or "
             "as a Hugging Face Space secret."
         )
-    return token
+    return token.strip()
 
 
 def _auth_headers(json_body=False):
