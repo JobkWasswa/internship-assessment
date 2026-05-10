@@ -9,7 +9,7 @@ tags:
   - streamlit
 pinned: false
 license: mit
-short_description: Summarise text or audio, then translate to a Ugandan language with spoken output.
+short_description: Summarise & translate to a Ugandan language, aloud.
 ---
 
 # 🌻 Sunbird AI — Speak & Translate
