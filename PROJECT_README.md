@@ -174,7 +174,6 @@ A `.env.example` is provided as a template. Never commit your actual `.env` to g
 
 ### Screenshots
 
-> Replace these with your own screenshots after deployment.
 
 ![App home](docs/screenshot_home.png)
 *The landing UI with text input selected.*
