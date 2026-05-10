@@ -104,7 +104,7 @@ The split keeps things easy to test: `sunbird_client.py` only knows how to talk 
 
 ## Live demo
 
-> **🔗 Deployed app:** `<DEPLOYED_LINK>`
+> **🔗 Deployed app:** [https://huggingface.co/spaces/JobkWasswa/sunbird-speak-translate](https://huggingface.co/spaces/JobkWasswa/sunbird-speak-translate)
 
 (See *Deployment* section below for how it's hosted.)
 
@@ -121,7 +121,7 @@ The split keeps things easy to test: `sunbird_client.py` only knows how to talk 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<JobkWasswa>/internship-assessment.git
+git clone https://github.com/JobkWasswa/internship-assessment.git
 cd internship-assessment
 
 # 2. Create and activate a virtual environment
